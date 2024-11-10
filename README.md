@@ -5,11 +5,11 @@
 The goal of this project is to develop a basic e-commerce web application using the MERN stack (MongoDB, Express, React, Node.js). This application demonstrates skills in both frontend and backend development, as well as database management.
 
 ## Project Overview
-**ShopEase** is a simplified e-commerce web application that allows users to view a list of products and add items to a shopping cart. This project was designed to offer a foundational understanding of building full-stack applications and managing e-commerce functionalities using the MERN stack.
+**ShopEase** is a simplified e-commerce web application that allows users to view a list of products and add items to a shopping cart and remove it. This project was designed to offer a foundational understanding of building full-stack applications and managing e-commerce functionalities using the MERN stack.
 
 ## Features
 - **Product Listing:** Displays a list of products fetched from the MongoDB database.
-- **Shopping Cart:** Users can add items to a cart, which updates in real-time.
+- **Shopping Cart:** Users can add items to a cart, which updates in real-time and remove it.
 - **Frontend:** Built with React, offering a responsive and user-friendly interface.
 - **Backend API:** Developed with Express and Node.js to handle product data and cart operations.
 - **Database Management:** Utilizes MongoDB for storing product data.
