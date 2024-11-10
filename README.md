@@ -31,7 +31,7 @@ The goal of this project is to develop a basic e-commerce web application using 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/ShreyaKumari13/taskmanager.git
+   git clone https://github.com/ShreyaKumari13/ShopEase-MERN-E-commerce-App.git
    cd taskmanager
    ```
 
